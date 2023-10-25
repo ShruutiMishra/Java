@@ -4,13 +4,15 @@ What is java?
 Java is a programming language fro coding web applications. Java is platform independent and very versatile language,
 and that is why it is widely used.
 Some applications are:
-    Game Developement
-    Cloud Computing
-    Big Data
-    Web Development
-    AI
-    IOT
+   1. Game Developement
+   2. Cloud Computing
+   3. Big Data
+   4. Web Development
+   5. AI
+   6. IOT
+      
 ADVANTAGES OF JAVA:
+
 1. Inbuilt functions and libraries
 2. Active community support
 3. Platform Independent
@@ -23,8 +25,8 @@ IMPORTANT->
 **
 |\
 |\
-Java language and APIs --> font-end communication
-Java Virtual Machine --> back-end communication
+Java language and APIs --> font-end communication.
+Java Virtual Machine --> back-end communication.
 
 1. Java API:
    Java language defines syntax for Java programming language, basic rules and vocabulary to write algorithms.
